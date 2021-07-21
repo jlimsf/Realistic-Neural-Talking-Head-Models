@@ -22,3 +22,18 @@ Wi_weights/
 .vscode/settings.json
 
 .vscode/
+
+._vgg_face_caffe
+Pytorch_VGGFACE_IR.npy
+VGGFACE_IR.json
+VGGFACE_IR.npy
+VGGFACE_IR.pb
+data/
+landmark.png
+preprocess.py
+recent_backup.png
+vgg_face_caffe.tar.gz
+vgg_face_caffe/
+vggface.zip
+visualizations/
+wandb/
